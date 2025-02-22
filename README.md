@@ -18,7 +18,7 @@ A simple Flask application that provides system information using an `/htop` end
 ---
 
 ## 🎯 **Live Demo**
-🔗 **Hosted URL:** [Click Here](https://automatic-rotary-phone-jjjxrp47q97359qj-5000.app.github.dev/htop)  
+🔗 **Hosted URL:** [Click Here](https://flask-htop-app.onrender.com/htop)  
 
 ---
 
